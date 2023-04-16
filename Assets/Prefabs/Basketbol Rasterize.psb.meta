@@ -1,0 +1,466 @@
+fileFormatVersion: 2
+guid: 180c5d6a100a1eb499922ee5ca0a7713
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: File
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3340
+      y: 3803
+      width: 270
+      height: 267
+    spriteID: 072b418cbe8565349b87a54482329e97
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2102, y: 2619}
+  - name: 'Pota '
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2744
+      y: 3661
+      width: 588
+      height: 351
+    spriteID: 1c76ad2a6ee6cdb40b6322b32a9d0758
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1662, y: 2268}
+  - name: Zemin
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3114
+      width: 2732
+      height: 539
+    spriteID: 4f3c9a6cc4c03a044a6b378fa4caece0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 3114}
+  - name: Duvar
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3661
+      width: 2732
+      height: 310
+    spriteID: ff6804b572f92104eb70c48f62cf0f5b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 3183}
+  - name: "A\u011Fa\xE7lar"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2018
+      width: 2732
+      height: 1088
+    spriteID: 77ff4cc6c0b65ab4683cf00feeab45a4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 1479}
+  - name: Bulut-1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3618
+      y: 3803
+      width: 438
+      height: 100
+    spriteID: 4c565e21f32db2f449cd7b6fc396857c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3597, y: 2145}
+  - name: Bulut-2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2744
+      y: 3114
+      width: 717
+      height: 85
+    spriteID: 924b3774174929a4aaf9847609fa726f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2332, y: 1251}
+  - name: Bulut-3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3340
+      y: 3661
+      width: 622
+      height: 134
+    spriteID: 6a6018a85d17ea84e8d4f436d60d9933
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1865, y: 1839}
+  - name: Bulut-4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3618
+      y: 4019
+      width: 384
+      height: 53
+    spriteID: 84492d544bf0581498732f105431de0e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1924, y: 2382}
+  - name: Bulut-5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3618
+      y: 3911
+      width: 438
+      height: 100
+    spriteID: 59745e5599e45d74d8d223e1d12d69ef
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1326, y: 2245}
+  - name: Arka Plan
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 2732
+      height: 2006
+    spriteID: 706f2871d306aff47a5c43d72d430ed6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: -38}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 2732, y: 2048}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 4096
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Pota
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 418
+    mosaicPosition: {x: 0, y: 0}
+  - name: File
+    spriteName: File
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 072b418cbe8565349b87a54482329e97
+    layerID: 417
+    mosaicPosition: {x: 3340, y: 3803}
+  - name: 'Pota '
+    spriteName: 'Pota '
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1c76ad2a6ee6cdb40b6322b32a9d0758
+    layerID: 416
+    mosaicPosition: {x: 2744, y: 3661}
+  - name: Zemin
+    spriteName: Zemin
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4f3c9a6cc4c03a044a6b378fa4caece0
+    layerID: 398
+    mosaicPosition: {x: 4, y: 3114}
+  - name: Duvar
+    spriteName: Duvar
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ff6804b572f92104eb70c48f62cf0f5b
+    layerID: 397
+    mosaicPosition: {x: 4, y: 3661}
+  - name: "A\u011Fa\xE7lar"
+    spriteName: "A\u011Fa\xE7lar"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 77ff4cc6c0b65ab4683cf00feeab45a4
+    layerID: 396
+    mosaicPosition: {x: 4, y: 2018}
+  - name: Bulutlar
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 296
+    mosaicPosition: {x: 0, y: 0}
+  - name: Bulut-1
+    spriteName: Bulut-1
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 4c565e21f32db2f449cd7b6fc396857c
+    layerID: 419
+    mosaicPosition: {x: 3618, y: 3803}
+  - name: Bulut-2
+    spriteName: Bulut-2
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 924b3774174929a4aaf9847609fa726f
+    layerID: 420
+    mosaicPosition: {x: 2744, y: 3114}
+  - name: Bulut-3
+    spriteName: Bulut-3
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 6a6018a85d17ea84e8d4f436d60d9933
+    layerID: 421
+    mosaicPosition: {x: 3340, y: 3661}
+  - name: Bulut-4
+    spriteName: Bulut-4
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 84492d544bf0581498732f105431de0e
+    layerID: 422
+    mosaicPosition: {x: 3618, y: 4019}
+  - name: Bulut-5
+    spriteName: Bulut-5
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 59745e5599e45d74d8d223e1d12d69ef
+    layerID: 423
+    mosaicPosition: {x: 3618, y: 3911}
+  - name: Arka Plan
+    spriteName: Arka Plan
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 706f2871d306aff47a5c43d72d430ed6
+    layerID: 395
+    mosaicPosition: {x: 4, y: 4}
+  sharedRigPSDLayers: []
+  generateGOHierarchy: 0
+  textureAssetName: Basketbol Rasterize Texture
+  prefabAssetName: Basketbol Rasterize Prefab
+  spriteLibAssetName: Basketbol Rasterize Sprite Lib
+  skeletonAssetName: Basketbol Rasterize Skeleton
+  secondarySpriteTextures: []
